@@ -52,7 +52,7 @@ class email extends StatelessWidget {
 
 
                   }
-                    , child: Text("Send Email  ",style: TextStyle(
+                    , child: Text("Send Email",style: TextStyle(
                       fontSize: 25,
                       fontWeight:   FontWeight.bold,
                       color: Colors.black,
