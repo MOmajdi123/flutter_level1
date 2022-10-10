@@ -38,7 +38,7 @@ class register extends StatelessWidget {
                       decoration: InputDecoration(
 
                           enabledBorder: UnderlineInputBorder(
-                              borderSide: BorderSide(color: Colors.white,width: 3)
+                              borderSide: BorderSide(color: Colors.white,width: 2)
                           ),
                           hintText: "Full Name",hintStyle: TextStyle(
 
@@ -57,7 +57,7 @@ class register extends StatelessWidget {
                       decoration: InputDecoration(
 
                           enabledBorder: UnderlineInputBorder(
-                              borderSide: BorderSide(color: Colors.white,width: 3)
+                              borderSide: BorderSide(color: Colors.white,width: 2)
                           ),
                           hintText: "E_Mail",hintStyle: TextStyle(
 
@@ -76,7 +76,7 @@ class register extends StatelessWidget {
                     child: TextFormField(
                       decoration: InputDecoration(
                           enabledBorder: UnderlineInputBorder(
-                              borderSide: BorderSide(color: Colors.white,width: 3)
+                              borderSide: BorderSide(color: Colors.white,width: 2)
                           ),
 
                           hintText: "Password",hintStyle: TextStyle(
@@ -94,7 +94,7 @@ class register extends StatelessWidget {
                     child: TextFormField(
                       decoration: InputDecoration(
                           enabledBorder: UnderlineInputBorder(
-                              borderSide: BorderSide(color: Colors.white,width: 3)
+                              borderSide: BorderSide(color: Colors.white,width: 2)
                           ),
 
                           hintText: "Confirm Password",hintStyle: TextStyle(
@@ -138,7 +138,7 @@ class register extends StatelessWidget {
                     children: [
                       Text("Lorem ipsum dolor sit amet consectetur ",style: TextStyle(
                         color: Colors.white,
-                        fontSize: 16,
+                        fontSize: 17,
                         fontWeight: FontWeight.bold,
                       ),),
 

@@ -33,9 +33,9 @@ class email extends StatelessWidget {
                       decoration: InputDecoration(
 
                           enabledBorder: UnderlineInputBorder(
-                              borderSide: BorderSide(color: Colors.white,width: 3)
+                              borderSide: BorderSide(color: Colors.white,width: 2)
                           ),
-                          hintText: "Enter E_Mail",hintStyle: TextStyle(
+                          hintText: "Enter E_Mail ",hintStyle: TextStyle(
 
                         fontSize:23 ,
                         color: Colors.white,

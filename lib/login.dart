@@ -33,7 +33,7 @@ class login extends StatelessWidget {
                         decoration: InputDecoration(
 
                          enabledBorder: UnderlineInputBorder(
-                           borderSide: BorderSide(color: Colors.white,width: 3)
+                           borderSide: BorderSide(color: Colors.white,width: 2)
                          ),
                           hintText: "E_Mail",hintStyle: TextStyle(
 
@@ -52,7 +52,7 @@ class login extends StatelessWidget {
                       child: TextFormField(
                         decoration: InputDecoration(
                             enabledBorder: UnderlineInputBorder(
-                                borderSide: BorderSide(color: Colors.white,width: 3)
+                                borderSide: BorderSide(color: Colors.white,width: 2)
                             ),
 
                             hintText: "Password",hintStyle: TextStyle(
@@ -89,7 +89,7 @@ class login extends StatelessWidget {
                     SizedBox(
                       height: 25,
                     ),
-                    Text("______________   OR   _______________",style: TextStyle(
+                    Text("_______________   OR   _______________", style: TextStyle(
                       fontSize: 25,
                       fontWeight: FontWeight.bold,
                       color: Colors.white,
