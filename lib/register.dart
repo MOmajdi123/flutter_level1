@@ -149,11 +149,7 @@ class register extends StatelessWidget {
                 ],
               ),
             ),
-            Positioned(
-                top: -20,
-                left: -70,
 
-                child: Image.asset("images/Header Shape-1.png") ),
             Positioned(
                 top: 70,
                 right: 150,

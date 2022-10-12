@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       routes: {
            "login":(context) => login(),
            "register" :(context) => register(),
-            "email" : (context) => email(),
+
 
         },
     );

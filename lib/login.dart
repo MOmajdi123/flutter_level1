@@ -135,7 +135,7 @@ class login extends StatelessWidget {
 
                         GestureDetector(
                           onTap: (){
-                            Navigator.pushNamed(context, "email");
+                            Navigator.pushNamed(context, "register");
                           },
                           child: Text("Sign Up Form Here",style: TextStyle(
                             color: Colors.white,
@@ -156,11 +156,7 @@ class login extends StatelessWidget {
                   ],
                 ),
               ),
-              Positioned(
-                top: -20,
-                   left: -70,
 
-                  child: Image.asset("images/Header Shape-1.png") ),
               Positioned(
                      top: 70,
                   right: 150,

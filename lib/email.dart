@@ -13,7 +13,7 @@ class email extends StatelessWidget {
         decoration: BoxDecoration(
           image: DecorationImage(
             fit: BoxFit.fill,
-            image: AssetImage("images/Fotolia_-1.png"),
+            image: AssetImage("images/"),
           ),
         ),
 
